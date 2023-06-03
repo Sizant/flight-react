@@ -11,6 +11,7 @@ import flight from './flight.png'
 import axios from 'axios';
 import './app.css'
 
+
 function App(){
   const[photo,setPhoto]=useState(barcelona)
 
@@ -66,11 +67,11 @@ function App(){
     <br/>
     <div className="detail2">
       <div className="colm1">
-        <h2>Flexible Solutions</h2>
+        <h2 style={{borderTop:'2px solid black'}}>Flexible Solutions</h2>
         <div>
           <p>Stop depending on airlines. Fly on your own terms or join our exclusive shared flights.</p>
           <br/>
-          <h2>Smart Quotes</h2>
+          <h2 style={{borderTop:'2px solid black'}}>Smart Quotes</h2>
         <div>
           <p>Know what you are paying for. No hidden fees. No overpromises. Flights suitable for your needs.</p>
 </div>
@@ -79,11 +80,11 @@ function App(){
         <br/><br/>
       </div>
       <div className="colm2">
-        <h2>Fully Customizable</h2>
+        <h2 style={{borderTop:'2px solid black'}}>Fully Customizable</h2>
         <div>
           <p>Control all aspects of your journey. Easily upgrade services with our add-ons.</p>
           <br/><br/>
-          <h2>Personalization</h2>
+          <h2 style={{borderTop:'2px solid black'}}>Personalization</h2>
         <div>
           <p>Receive full support of our Flight Management service. We have you covered, anywhere.</p>
 </div>
@@ -108,14 +109,14 @@ function App(){
     </div>
     <div className="rightCard">
       <div className="cards">
-        <div className="barc" onMouseOver={()=>setPhoto(barcelona)}>
+        <div className="barc" onMouseOver={()=>setPhoto(barcelona)} style={{borderTop:'.5px solid grey'}}>
           <h2>Barcelona (GOR)</h2>
           <br />
           <br />
           <p>Spain</p>
         </div>
         
-        <div className="barc" onMouseOver={()=>setPhoto(ibiza)}>
+        <div className="barc" onMouseOver={()=>setPhoto(ibiza)} style={{borderTop:'.5px solid grey'}}>
           <h2>Ibiza (IBZ)</h2>
           <br /><br />
           <p>Spain</p>
@@ -123,12 +124,12 @@ function App(){
         
       </div>
       <div className="cards2">
-        <div className="barc" onMouseOver={()=>setPhoto(cannes)}>
+        <div className="barc" onMouseOver={()=>setPhoto(cannes)} style={{borderTop:'.5px solid grey'}}>
           <h2>Cannes (CEQ)</h2>
           <br /><br />
           <p>France</p>
         </div>
-        <div className="barc" onMouseOver={()=>setPhoto(paris)}>
+        <div className="barc" onMouseOver={()=>setPhoto(paris)} style={{borderTop:'.5px solid grey'}}>
           <h2>Paris (LBG)</h2>
           <br /><br />
           <p>France</p>
