@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flight-react/static/css/main.c3fb3093.css",
-    "main.js": "/flight-react/static/js/main.6b877e4a.js",
+    "main.css": "/flight-react/static/css/main.b3e653a7.css",
+    "main.js": "/flight-react/static/js/main.a5e064a3.js",
     "static/media/2.png": "/flight-react/static/media/2.a8ecf3c2a61ecaff9ffe.png",
     "static/media/flight.png": "/flight-react/static/media/flight.2986c5a4c6d3558d4eab.png",
     "static/media/cannes.avif": "/flight-react/static/media/cannes.612c83cf449d99e89ddd.avif",
@@ -12,11 +12,11 @@
     "static/media/1.png": "/flight-react/static/media/1.d7b0e6cd55dac189521e.png",
     "static/media/3.png": "/flight-react/static/media/3.900436bceed13ad7d037.png",
     "index.html": "/flight-react/index.html",
-    "main.c3fb3093.css.map": "/flight-react/static/css/main.c3fb3093.css.map",
-    "main.6b877e4a.js.map": "/flight-react/static/js/main.6b877e4a.js.map"
+    "main.b3e653a7.css.map": "/flight-react/static/css/main.b3e653a7.css.map",
+    "main.a5e064a3.js.map": "/flight-react/static/js/main.a5e064a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3fb3093.css",
-    "static/js/main.6b877e4a.js"
+    "static/css/main.b3e653a7.css",
+    "static/js/main.a5e064a3.js"
   ]
 }
