@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flight-react/static/css/main.f7406878.css",
+    "main.js": "/flight-react/static/js/main.6b877e4a.js",
+    "static/media/2.png": "/flight-react/static/media/2.a8ecf3c2a61ecaff9ffe.png",
+    "static/media/flight.png": "/flight-react/static/media/flight.2986c5a4c6d3558d4eab.png",
+    "static/media/cannes.avif": "/flight-react/static/media/cannes.612c83cf449d99e89ddd.avif",
+    "static/media/barcelona.avif": "/flight-react/static/media/barcelona.e45722ea7eadbb27b6b6.avif",
+    "static/media/ibiza.avif": "/flight-react/static/media/ibiza.ca1ef94e016ef392cf5e.avif",
+    "static/media/paris.avif": "/flight-react/static/media/paris.c0fb2f65ade27b894503.avif",
+    "static/media/hyer.png": "/flight-react/static/media/hyer.ebabd9c7238ba16f6d5c.png",
+    "static/media/1.png": "/flight-react/static/media/1.d7b0e6cd55dac189521e.png",
+    "static/media/3.png": "/flight-react/static/media/3.900436bceed13ad7d037.png",
+    "index.html": "/flight-react/index.html",
+    "main.f7406878.css.map": "/flight-react/static/css/main.f7406878.css.map",
+    "main.6b877e4a.js.map": "/flight-react/static/js/main.6b877e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7406878.css",
+    "static/js/main.6b877e4a.js"
+  ]
+}
