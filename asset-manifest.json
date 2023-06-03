@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flight-react/static/css/main.f7406878.css",
+    "main.css": "/flight-react/static/css/main.c3fb3093.css",
     "main.js": "/flight-react/static/js/main.6b877e4a.js",
     "static/media/2.png": "/flight-react/static/media/2.a8ecf3c2a61ecaff9ffe.png",
     "static/media/flight.png": "/flight-react/static/media/flight.2986c5a4c6d3558d4eab.png",
@@ -12,11 +12,11 @@
     "static/media/1.png": "/flight-react/static/media/1.d7b0e6cd55dac189521e.png",
     "static/media/3.png": "/flight-react/static/media/3.900436bceed13ad7d037.png",
     "index.html": "/flight-react/index.html",
-    "main.f7406878.css.map": "/flight-react/static/css/main.f7406878.css.map",
+    "main.c3fb3093.css.map": "/flight-react/static/css/main.c3fb3093.css.map",
     "main.6b877e4a.js.map": "/flight-react/static/js/main.6b877e4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7406878.css",
+    "static/css/main.c3fb3093.css",
     "static/js/main.6b877e4a.js"
   ]
 }
